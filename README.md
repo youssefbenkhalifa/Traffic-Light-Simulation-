@@ -1,7 +1,7 @@
 # Traffic Light Simulation
 
 A simple C program demonstrating thread synchronization using condition variables to simulate cars waiting at a traffic light.
-
+### Inspired from the Stanford CS110 assignment on Traffic Lights
 ## Description
 
 This project simulates a scenario where multiple cars arrive at a traffic light and need to wait for it to turn green before proceeding. It demonstrates fundamental concepts of multithreaded programming in C, including:
